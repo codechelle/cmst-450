@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="project4.xsl"?>
+<courses>
+    <course>
+        <course_name>Fundamentals of JavaScript</course_name>
+        <course_code>CMST 388</course_code>
+    </course>
+    <course>
+        <course_name>Principles of Web Design and Techonology II</course_name>
+        <course_code>CMST 386</course_code>
+    </course>
+    <course>
+        <course_name>User Experience Interface Design</course_name>
+        <course_code>CMST 308</course_code>
+    </course>
+    <course>
+        <course_name>Advanced Application Software</course_name>
+        <course_code>CMST 303</course_code>
+    </course>
+    <course>
+        <course_name>Image Editing</course_name>
+        <course_code>CMST 325</course_code>
+    </course>
+    <course>
+        <course_name>Principles of Web Design and Techonology I</course_name>
+        <course_code>CMST 385</course_code>
+    </course>
+    <course>
+        <course_name>Advanced Electronic Publishing</course_name>
+        <course_code>CMST 311</course_code>
+    </course>
+    <course>
+        <course_name>Advanced Technical Writing</course_name>
+        <course_code>WRTG 393</course_code>
+    </course>
+    <course>
+        <course_name>Techonology in Contemporary Society</course_name>
+        <course_code>BEHS 103</course_code>
+    </course>
+    <course>
+        <course_name>Program and Career Exploration in Techonology</course_name>
+        <course_code>PACE 111T</course_code>
+    </course>
+</courses>
